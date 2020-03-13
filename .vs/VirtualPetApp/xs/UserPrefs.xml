@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{96043F56-8448-4EB3-9E70-AC4EC2B86AAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.VirtualPetApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VirtualPetApp.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VirtualPetApp FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
